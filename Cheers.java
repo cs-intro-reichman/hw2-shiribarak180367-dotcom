@@ -16,7 +16,9 @@ public class Cheers {
                     System.out.println("Give me an " + letter + ": " + letter + "!");
                 } else {
                     System.out.println("Give me a " + letter + ": " + letter + "!");
+
                 }
+                letter++;
 
                 }
                 String cheer = "What does that spell?";
