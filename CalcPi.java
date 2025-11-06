@@ -13,8 +13,8 @@ public class CalcPi {
 		
 		double result = term * 4.0;
 	
-		System.out.println("pi acording to Java: " + piJava);
-		System.out.println("pi, approximated:     " + result );
+		System.out.println("pi according to Java: " + piJava);
+		System.out.println("pi, approximated: " + result );
 
 		
 
